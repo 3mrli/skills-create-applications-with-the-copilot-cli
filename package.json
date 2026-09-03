@@ -1,0 +1,9 @@
+{
+  "name": "node-cli-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Node.js CLI calculator",
+  "scripts": {
+    "test": "node --test src/tests/calculator.test.js"
+  }
+}
